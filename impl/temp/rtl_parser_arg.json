@@ -1,0 +1,28 @@
+{
+ "Files" : [
+  {
+   "Path" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/dvi_tx/hdmi.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/gowin_rpll/TMDS_rPLL.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/testpattern.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/video_top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

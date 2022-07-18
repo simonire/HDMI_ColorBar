@@ -1,0 +1,11 @@
+-d D:\Studio\TangNano4K\TangNano-9K-example-main\hdmi_cb\impl\gwsynthesis\hdmi_cb.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst D:\Studio\TangNano4K\TangNano-9K-example-main\hdmi_cb\src\hdmi_cb.cst
+-cfg D:\Studio\TangNano4K\TangNano-9K-example-main\hdmi_cb\impl\pnr\device.cfg
+-sdc D:\Studio\TangNano4K\TangNano-9K-example-main\hdmi_cb\src\hdmi_cb.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error

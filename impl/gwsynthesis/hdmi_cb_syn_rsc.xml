@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="video_top" Register="26" Lut="58">
+    <SubModule name="testpattern_inst" Register="39" Lut="60"/>
+    <SubModule name="u_tmds_rpll"/>
+    <SubModule name="HDMI_TX_Top_inst" Register="73" Alu="68" Lut="217"/>
+</Module>

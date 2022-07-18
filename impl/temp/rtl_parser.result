@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/video_top.v",
+  "InstLine" : 2,
+  "InstName" : "video_top",
+  "ModuleFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/video_top.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "video_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/video_top.v",
+    "InstLine" : 58,
+    "InstName" : "testpattern_inst",
+    "ModuleFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/testpattern.v",
+    "ModuleLine" : 17,
+    "ModuleName" : "testpattern"
+   },
+   {
+    "InstFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/video_top.v",
+    "InstLine" : 100,
+    "InstName" : "u_tmds_rpll",
+    "ModuleFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/gowin_rpll/TMDS_rPLL.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "TMDS_rPLL"
+   },
+   {
+    "InstFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/video_top.v",
+    "InstLine" : 117,
+    "InstName" : "HDMI_TX_Top_inst",
+    "ModuleFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/dvi_tx/hdmi.v",
+    "ModuleLine" : 1042,
+    "ModuleName" : "HDMI_TX_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/dvi_tx/hdmi.v",
+      "InstLine" : 1073,
+      "InstName" : "rgb2dvi_inst",
+      "ModuleFile" : "D:/Studio/TangNano4K/TangNano-9K-example-main/hdmi_cb/src/dvi_tx/hdmi.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "~rgb2dvi.HDMI_TX_Top"
+     }
+    ]
+   }
+  ]
+ }
+]
